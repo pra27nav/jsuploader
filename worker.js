@@ -1,3 +1,3 @@
 setInterval(() => {
-    postMessage();
+    console.log("pass");postMessage('');
 }, 5);
